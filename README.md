@@ -1,6 +1,12 @@
 # Intel Pin 链接外部库
 ---
 
+### PIN版本
+使用`pin-3.20`版本, 可以使用以下命令下载:
+```shell
+wget https://software.intel.com/sites/landingpage/pintool/downloads/pin-3.20-98437-gf02b61307-gcc-linux.tar.gz
+```
+
 ### 编译与测试
 编译PINTOOL依赖环境变量`PIN_ROOT`, 首先执行以下命令:
 ```shell
